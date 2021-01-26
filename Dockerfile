@@ -11,10 +11,12 @@ RUN apt-get install -y carton
 RUN apt-get install -y cpanminus
 RUN apt-get install -y default-libmysqlclient-dev
 RUN apt-get install -y libev-perl
+RUN apt-get install -y libperl-critic-perl
 RUN apt-get install -y libpq-dev
 RUN apt-get install -y libreadline-dev
 RUN apt-get install -y libsqlite3-dev
 RUN apt-get install -y libssl-dev
+RUN apt-get install -y perltidy
 RUN apt-get install -y openssl
 RUN apt-get install -y zlib1g-dev
 
