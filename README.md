@@ -1,4 +1,4 @@
-# perl-5320
+# perl-slim
 
 Perl 5.32.0 (with pre-installed tools)
 
